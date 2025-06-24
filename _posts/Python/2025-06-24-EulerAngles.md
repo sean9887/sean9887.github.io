@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: "Euler Angles"
-categories: Python]
+categories: [Python]
 tags: [Euler Angles]
 ---
 
